@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+.test1 {
+  background-color: rgb(112, 25, 138);
+  width: 800px;
+  height: 600px;
+}
